@@ -1,0 +1,19 @@
+{
+  "name": "com.temporarystudios.tabmm",
+  "version": "1.0.1",
+  "displayName": "TABMM",
+  "description": "TABMM is a mod manager that handles scripts, shaders and compilation.",
+  "unity": "2019.1",
+  "documentationUrl": "https://github.com/TensulStudios/tabmm#readme",
+  "changelogUrl": "https://github.com/TensulStudios/tabmm/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/TensulStudios/tabmm/blob/main/LICENSE",
+  "keywords": [
+    "mod",
+    "manager",
+    "tabmm"
+  ],
+  "author": {
+    "name": "Temporary Studios",
+    "url": "https://github.com/TensulStudios"
+  }
+}
